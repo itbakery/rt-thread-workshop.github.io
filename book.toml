@@ -1,0 +1,5 @@
+[book]
+authors = ["sawangpong muadphet"]
+language = "en"
+src = "src"
+title = "RT Thread Workshop"
